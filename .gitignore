@@ -6,3 +6,4 @@ dist/*
 # vim swap files
 *.swp
 acs.tmp
+spec/AutoComplete.Spac.js
